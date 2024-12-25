@@ -2,7 +2,8 @@
 
 Мобильное приложение для управления задачами, созданное с использованием React Native и Expo.
 📸 Скриншоты
-![Simulator Screenshot - iPhone 16 - 2024-12-25 at 16 55 47](https://github.com/user-attachments/assets/1d953e81-ae85-4cc9-af0a-f9508c6c4d78)
+
+<img width="442" alt="Снимок экрана 2024-12-25 в 16 57 02" src="https://github.com/user-attachments/assets/425ad785-6a49-4d07-90ea-dc2baa8dacec" />
 
 
 📝 Лицензия
